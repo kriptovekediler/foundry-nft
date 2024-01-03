@@ -3,7 +3,7 @@ src = "src"
 out = "out"
 libs = ["lib"]
 remappings = ['@openzeppelin/contracts=lib/openzeppelin-contracts/contracts',
-'@thirdweb-dev/contracts=lib/contracts/contracts'
+'@thirdweb-dev/contracts=lib/contracts'
 ]
 ffi = true
 
