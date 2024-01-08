@@ -6,6 +6,6 @@ remappings = ['@openzeppelin/contracts=lib/openzeppelin-contracts/contracts',
 '@thirdweb-dev/contracts=lib/contracts/contracts'
 ]
 ffi = false
-fs_permissions = [{access = "read", path = "./image/"}]
+fs_permissions = [{access = "read", path = "./images/"}]
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
